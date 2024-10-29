@@ -1,3 +1,5 @@
 All work done within the mitesobjectdetection file was very disorganized, as we had many of us working on different parts of the projects at the same time. Please only look at the "loading the dataframe" section,
 as well as the "Converting the Images to Tensors" section.
 All of the code relevant to the CNN was moved to the final_test file.
+For the data augmentation file, I did most of the code alone, as I took some parts from the mitesobjectdetection.
+The final_test file was a collaboration between all 4 of us.
